@@ -1,0 +1,12 @@
+header{
+     background-color:#040972;
+}
+.list{
+    background-color:#64b0a7;
+}
+header>h1{
+    font-weight:400;
+}
+.nav-row{
+    background-color:#f2eaa6;
+}
