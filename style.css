@@ -10,3 +10,16 @@ header>h1{
 .nav-row{
     background-color:#f2eaa6;
 }
+.marcy-header-1{
+    font-weight:400;
+    font-size:3.5rem;
+}
+.marcy-header-2{
+    font-weight:400;
+}
+.bold-list{
+    font-weight: 500;
+}
+.bold-header{
+    font-weight: 800;
+}
